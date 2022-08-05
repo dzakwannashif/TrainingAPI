@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PahlawanApp</string>
+    <string name="kategori">Kategori</string>
+    <string name="txt_nama1">A.H. Nasution</string>
+    <string name="txt_nama2">Jendral Besar Dr.Abdul Haris Nasution</string>
+    <string name="txt_kategori">Pahlawan Nasional</string>
+    <string name="desc_foto_pahlawan">Foto Pahlawan</string>
+    <string name="txt_raw_asal">Asal</string>
+    <string name="txt_raw_umur">67</string>
+    <string name="txt_asal">Sumatera Utara</string>
+    <string name="txt_lahir">Selasa, 3 Desember 1918 di Kotanopan, Mandailing Natal, Sumatera Utara</string>
+    <string name="txt_usia">81 tahun</string>
+    <string name="txt_gugur">Selasa Wage, 5 September 2000 di Jakarta, Indonesia</string>
+    <string name="txt_lokasi_makam">Taman Makam Pahlawan (TMP) Kalibata, Jakarta.</string>
+    <string name="txt_history">Jenderal Besar TNI, Panglima Angkatan Perang Republik Indonesia, Ketua Ketua Majelis Permusyawaratan Rakyat ke-2 (MPRS), Menteri Pertahanan ke-12, Kepala Staf TNI Angkatan Darat (KASAD, KSAD) sebanyak 2 Kali. Ahli perang gerilya, peletak dasar perang gerilya, penulis buku yang fenomenal dengan judul Fundamentals of Guerrilla Warfare, yang diterjemahkan ke berbagai bahasa asing, dan menjadi buku wajib akademi militer di sejumlah negara, termasuk sekolah elite militer dunia, West Point, Amerika Serikat.Jenderal Besar Dr. Abdul Haris Nasution (lahir di Kotanopan, Sumatera Utara, 3 Desember 1918 – meninggal di Jakarta, 6 September 2000 pada umur 81 tahun) adalah seorang pahlawan nasional Indonesia yang merupakan salah satu tokoh yang menjadi sasaran dalam peristiwa Gerakan 30 September, namun yang menjadi korban adalah putrinya Ade Irma Suryani Nasution dan ajudannya, Lettu Pierre Tendean.Sebagai seorang tokoh militer, Nasution sangat dikenal sebagai ahli perang gerilya. Pak Nas demikian sebutannya dikenal juga sebagai penggagas dwifungsi ABRI. Orde Baru yang ikut didirikannya (walaupun ia hanya sesaat saja berperan di dalamnya). Beliau juga dikenal sebagai peletak dasar perang gerilya. Gagasan perang gerilya dituangkan dalam bukunya yang fenomenal, Fundamentals of Guerrilla Warfare. Selain diterjemahkan ke berbagai bahasa asing, karya itu menjadi buku wajib akademi militer di sejumlah negara, termasuk sekolah elite militer dunia, West Point, Amerika Serikat.Pada Maret 1946, ia diangkat menjadi Panglima Divisi III/Priangan. Mei 1946, ia dilantik Presiden Soekarno sebagai Panglima Divisi Siliwangi.Pada 5 Oktober 1997, bertepatan dengan hari ABRI, Nasution dianugerahi pangkat Jendral Besar bintang lima. Nasution tutup usia di RS Gatot Soebroto pada 6 September 2000 dan dimakamkan di TMP Kalibata, Jakarta.</string>
+    <string name="txt_detail">Sejarah</string>
+    <string name="txt_json">Display Data From JSON</string>
+    <string name="txt_display_repositories_git_from_search_api">Display Repositories GIT From Search APi</string>
+    <string name="txt_display_user_from_search_api_github">Display User From Search API Github</string>
+    <string name="txt_display_list_user_from_api_github">Display List User From API Github</string>
+</resources>
