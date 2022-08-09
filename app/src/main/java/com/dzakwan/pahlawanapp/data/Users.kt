@@ -2,6 +2,14 @@ package com.dzakwan.pahlawanapp.data
 
 import com.google.gson.annotations.SerializedName
 
+data class UsersResponse(
+
+	// karena mengambil data yang sama
+	@field:SerializedName("items")
+	val items: List<UsersItem>? = null
+
+)
+
 data class UsersItem(
 
 	@field:SerializedName("gists_url")

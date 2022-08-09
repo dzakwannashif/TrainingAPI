@@ -23,7 +23,7 @@
         app:layout_constraintTop_toBottomOf="@id/btn_rv_json" />
 
     <Button
-        android:id="@+id/bn_rv_search_user"
+        android:id="@+id/btn_rv_search_user"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/txt_display_user_from_search_api_github"
@@ -34,5 +34,5 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/txt_display_repositories_git_from_search_api"
-        app:layout_constraintTop_toBottomOf="@id/bn_rv_search_user" />
+        app:layout_constraintTop_toBottomOf="@id/btn_rv_search_user" />
 </androidx.constraintlayout.widget.ConstraintLayout>

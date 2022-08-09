@@ -12,13 +12,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PahlawanApp">
         <activity
-            android:name=".SearchRepoActivity"
+            android:name=".ui.searchrepo.SearchRepoActivity"
             android:exported="false" />
         <activity
-            android:name=".SearchUserActivity"
+            android:name=".ui.searchuser.SearchUserActivity"
             android:exported="false" />
         <activity
-            android:name=".ListUserActivity"
+            android:name=".ui.listuser.ListUserActivity"
             android:exported="false" />
         <activity
             android:name=".JsonActivity"
