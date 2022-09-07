@@ -21,9 +21,8 @@ class SearchUserViewModel : ViewModel() {
             }
 
             override fun onFailure(call: Call<UsersResponse>, t: Throwable) {
-                Log.e("SearchUser", "onFailure: $t", )
+                Log.e("SearchUser", "onFailure: $t")
             }
-
         })
     }
 

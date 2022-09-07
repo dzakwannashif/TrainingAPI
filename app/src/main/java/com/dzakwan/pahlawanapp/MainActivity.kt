@@ -6,6 +6,7 @@ import android.os.Bundle
 import android.view.View
 import com.dzakwan.pahlawanapp.databinding.ActivityMainBinding
 import com.dzakwan.pahlawanapp.ui.listuser.ListUserActivity
+import com.dzakwan.pahlawanapp.ui.pahlawan.JsonActivity
 import com.dzakwan.pahlawanapp.ui.searchrepo.SearchRepoActivity
 import com.dzakwan.pahlawanapp.ui.searchuser.SearchUserActivity
 

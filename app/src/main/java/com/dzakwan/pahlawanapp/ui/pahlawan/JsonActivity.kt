@@ -1,9 +1,8 @@
-package com.dzakwan.pahlawanapp
+package com.dzakwan.pahlawanapp.ui.pahlawan
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.dzakwan.pahlawanapp.data.PahlawanAdapter
 import com.dzakwan.pahlawanapp.databinding.ActivityJsonBinding
 
 class JsonActivity : AppCompatActivity() {

@@ -18,4 +18,8 @@
     <string name="txt_display_repositories_git_from_search_api">Display Repositories GIT From Search APi</string>
     <string name="txt_display_user_from_search_api_github">Display User From Search API Github</string>
     <string name="txt_display_list_user_from_api_github">Display List User From API Github</string>
+    <string name="txt_image">image</string>
+    <string name="txt_login">dzakwannashif</string>
+    <string name="txt_search_name">Search Name</string>
+    <string name="txt_search">search</string>
 </resources>

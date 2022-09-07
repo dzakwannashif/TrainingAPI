@@ -1,4 +1,4 @@
-package com.dzakwan.pahlawanapp.data
+package com.dzakwan.pahlawanapp.ui.pahlawan
 
 import android.content.Context
 import android.content.Intent
@@ -6,8 +6,9 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.dzakwan.pahlawanapp.DetailActivity
 import com.dzakwan.pahlawanapp.R
+import com.dzakwan.pahlawanapp.data.DaftarPahlawan
+import com.dzakwan.pahlawanapp.data.DaftarPahlawanItem
 import com.dzakwan.pahlawanapp.databinding.RawRvHomeBinding
 import com.dzakwan.pahlawanapp.utils.getJsonDataFromAsset
 import com.google.gson.Gson

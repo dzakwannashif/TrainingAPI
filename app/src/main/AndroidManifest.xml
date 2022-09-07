@@ -21,10 +21,10 @@
             android:name=".ui.listuser.ListUserActivity"
             android:exported="false" />
         <activity
-            android:name=".JsonActivity"
+            android:name=".ui.pahlawan.JsonActivity"
             android:exported="false" />
         <activity
-            android:name=".DetailActivity"
+            android:name=".ui.pahlawan.DetailActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

@@ -28,5 +28,8 @@ data class RepoItem(
 
 data class OwnerItem(
     @field:SerializedName("login")
-    val login: String
+    val login: String,
+
+    @field:SerializedName("avatar_url")
+    val avatarUrl: String
 )

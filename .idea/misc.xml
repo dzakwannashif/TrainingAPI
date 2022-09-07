@@ -5,7 +5,12 @@
       <map>
         <entry key="app/src/main/res/layout/activity_detail.xml" value="0.2671920776367188" />
         <entry key="app/src/main/res/layout/activity_json.xml" value="0.13179347826086957" />
+        <entry key="app/src/main/res/layout/activity_list_user.xml" value="0.234375" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.21810699588477367" />
+        <entry key="app/src/main/res/layout/activity_search_repo.xml" value="0.234375" />
+        <entry key="app/src/main/res/layout/activity_search_user.xml" value="0.234375" />
+        <entry key="app/src/main/res/layout/raw_list_user.xml" value="0.29374237060546876" />
+        <entry key="app/src/main/res/layout/raw_repo.xml" value="0.35864862512659146" />
         <entry key="app/src/main/res/layout/raw_rv_home.xml" value="0.2705530642750374" />
       </map>
     </option>

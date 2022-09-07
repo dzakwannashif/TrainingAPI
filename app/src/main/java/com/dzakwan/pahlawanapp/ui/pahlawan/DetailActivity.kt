@@ -1,4 +1,4 @@
-package com.dzakwan.pahlawanapp
+package com.dzakwan.pahlawanapp.ui.pahlawan
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -6,7 +6,6 @@ import com.bumptech.glide.Glide
 import com.dzakwan.pahlawanapp.data.DaftarPahlawan
 import com.dzakwan.pahlawanapp.data.DaftarPahlawanItem
 import com.dzakwan.pahlawanapp.databinding.ActivityDetailBinding
-import com.dzakwan.pahlawanapp.databinding.ActivityMainBinding
 
 class DetailActivity : AppCompatActivity() {
 

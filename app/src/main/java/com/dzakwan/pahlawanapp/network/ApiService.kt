@@ -19,6 +19,9 @@ interface ApiService {
     ) : Call<UsersResponse>
 
     @GET("search/repositories")
-    fun getSearchRepo(@Query("q") repositories: String) : Call<RepoResponse>
+    fun getSearchRepo(
+        @Query("q")
+        repositories: String
+    ) : Call<RepoResponse>
 
 }
